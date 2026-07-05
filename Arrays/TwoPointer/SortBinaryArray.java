@@ -29,8 +29,16 @@ public class SortBinaryArray {
         }
         return nums;
     }
-    
+
     public static void main(String[] args) {
+        
+        int arr[] = {1,1,1,0,0};
+
+        int ans[] = sortBinaryArray(arr);
+
+        for(int i : ans) {
+            System.out.print(i + " ");
+        }
         
     }
     
