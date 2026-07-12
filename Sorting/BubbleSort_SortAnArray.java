@@ -1,6 +1,6 @@
 
 
-public class LC912_BubbleSort_SortAnArray {
+public class BubbleSort_SortAnArray {
 
     static int[] bubbleSort(int nums[]) {
 
